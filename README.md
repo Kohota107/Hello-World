@@ -1,2 +1,2 @@
 # Hello-World
-This is a hello world experiment
+My name is Joshua Queen and I'm learning how to program.
